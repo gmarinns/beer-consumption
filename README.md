@@ -16,7 +16,7 @@ O objetivo é desenvolver um modelo de Aprendizado de Máquina utilizando a téc
 
 ## Instalação:
 
-  1. Clone o repositório: 'git clone https:[//[https://github.com/gmarinns/beer-consumption)]'
+  1. Clone o repositório: 'git clone https:https://github.com/gmarinns/beer-consumption)'
 
   2. Entre no diretório do seu projeto: `cd projeto`	 
 
