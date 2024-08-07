@@ -18,6 +18,6 @@ O objetivo é desenvolver um modelo de Aprendizado de Máquina utilizando a téc
 
   1. Clone o repositório: git clone https://github.com/mMainel/beer-consumption
 
-  2. Entre no diretório do seu projeto: `#RRGGBBcd projeto`	 cd projeto
+  2. Entre no diretório do seu projeto: `cd projeto`	 cd projeto
 
   3. Instale as dependências: pip install -r requirements.txt
