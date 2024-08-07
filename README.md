@@ -21,3 +21,5 @@ O objetivo é desenvolver um modelo de Aprendizado de Máquina utilizando a téc
   2. Entre no diretório do seu projeto: `cd projeto`	 
 
   3. Instale as dependências: `pip install -r requirements.txt`	 
+
+![ee5b55fb-3672-47ff-bbf8-32c3bfadf7ac](https://github.com/user-attachments/assets/71f489af-8d39-4dd7-a68a-6200d0fe4453)
