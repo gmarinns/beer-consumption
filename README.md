@@ -1,1 +1,1 @@
-# beer-consumption
+# Beer Consumption
